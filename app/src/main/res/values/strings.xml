@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SharedPrefGSON</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonLoad">Load</string>
+    <string name="save_retrieve_custom_class_file">save / retrieve custom class file</string>
+    <string name="save_retrieve_generic_type">save / retrieve generic type</string>
+    <string name="loadG">loadG</string>
+    <string name="saveG">SaveG</string>
+    <string name="display_data">display data</string>
+    <string name="save_list">save-list</string>
+    <string name="get_list">get_list</string>
+</resources>
